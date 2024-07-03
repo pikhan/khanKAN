@@ -1,1 +1,1 @@
-# khanKAN
+# Learning more about MLPs, KANs, and universal approximation theorems
